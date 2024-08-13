@@ -13,5 +13,5 @@ How well those variables describe the bike demands.
 Data understanding and exploration
 Data Visualisation
 Data preparation
-Model building and evaluation
+Model building and evaluation.
 
